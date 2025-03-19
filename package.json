@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "electron": "^35.0.2"
+  },
+  "name": "notion",
+  "description": "Run ./install.sh",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
